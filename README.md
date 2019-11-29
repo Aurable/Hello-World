@@ -1,6 +1,6 @@
 # Hello-World
 Refreshed
 
-just making some change
+Just making some changed
 
-adding a line down here. 
+Adding a line down here. 
